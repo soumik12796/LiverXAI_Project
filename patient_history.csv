@@ -1,3 +1,4 @@
-Date,Patient,Prediction,Confidence
-2026-05-27 20:16:58.537208,,LOW RISK,61.08
-2026-05-27 20:39:36.004748,Piyali Batabyal,LOW RISK,79.24
+Date,Patient,Prediction,Confidence,Severity
+2026-05-27 20:16:58.537208,,LOW RISK,61.08,
+2026-05-27 20:39:36.004748,Piyali Batabyal,LOW RISK,79.24,
+2026-05-27 21:04:02.399345,Abhik Roy,HEALTHY,80.77,HIGH RISK
